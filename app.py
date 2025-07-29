@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit.componnets.v1 as htmlviewer
+import streamlit.components.v1 as htmlviewer
 # Title Msg#1
 st.title('This is Sky Webapp!!')
 html = '''
